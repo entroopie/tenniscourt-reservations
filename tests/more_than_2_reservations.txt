@@ -1,0 +1,22 @@
+Make a reservation
+Marcel Boxberger
+1.04.2023 12:00
+90
+Make a reservation
+Marcel Boxberger
+1.04.2023 14:00
+90
+Make a reservation
+Marcel Boxberger
+1.04.2023 16:00
+Print schedule
+1.04.2023
+3.04.2023
+Make a reservation
+Marcel Boxberger
+3.04.2023 11:00
+30
+Print schedule
+1.04.2023
+3.04.2023
+Exit
