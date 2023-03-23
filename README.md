@@ -1,6 +1,6 @@
-## Author: Marcel Boxberger
+# Author: Marcel Boxberger
 
-# Tennis court reservation system
+## Tennis court reservation system
 
 The aim of this program is to make, cancel or check current reservations for a tennis court.
 There is also an option for saving the schedule to CSV or JSON.
