@@ -1,3 +1,5 @@
+## Author: Marcel Boxberger
+
 # Tennis court reservation system
 
 The aim of this program is to make, cancel or check current reservations for a tennis court.
