@@ -5,11 +5,6 @@
 The aim of this program is to make, cancel or check current reservations for a tennis court.
 There is also an option for saving the schedule to CSV or JSON.
 
-## Third-party libraries
-
-- pandas - for creating a DataFrame and making easy data manipulation, also for reading/saving files
-- datetime - for date and time manipulations
-
 ## Comments
 
 - The program is loading "local_storage.csv" which contains already some reservations (I used the example .csv file that you uploaded). When the local storage is not avaialable, it is creating an empty DataFrame object with defined columns.
